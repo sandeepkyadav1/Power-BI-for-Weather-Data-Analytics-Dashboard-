@@ -57,5 +57,6 @@ The Weather Data Analytics Dashboard is a dynamic and interactive Power BI solut
 ---
 
 Project  https://github.com/sandeepkyadav1/Power-BI-for-Weather-Data-Analytics-Dashboard-/blob/main/Power%20BI%20for%20Weather%20Data%20Analytics%20Dashboard.png
+linkedln link  https://www.linkedin.com/posts/sandeep-kumar-yadav-a91b932b4_powerbi-dataanalytics-dashboard-activity-7371284307073548288-sOeR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEujN00BejN1ZfiPpK8l4zhLzN3AuTM90kE
 
 
